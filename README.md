@@ -1,4 +1,3 @@
----
 `hello.c` is a simple "Hello World" program in C 
 ---
 `hello` is an executable made with gcc very simply: 
